@@ -3,4 +3,4 @@ Here we will see how to generate novel images based on a text prompt using the K
 
 Stable Diffusion is a powerful, open-source text-to-image generation model. While there exist multiple open-source implementations that allow you to easily create images from textual prompts, KerasCV's offers a few distinct advantages. These include XLA compilation and mixed precision support, which together achieve state-of-the-art generation speed.
 
-(https://colab.research.google.com/drive/1dAANkp38K9aDJHuNGM1cBSyLPnLcxE_8?usp=sharing)[Click Here] to generate image
+[Click Here](https://colab.research.google.com/drive/1dAANkp38K9aDJHuNGM1cBSyLPnLcxE_8?usp=sharing) to generate image
